@@ -91,4 +91,3 @@ therefore they contain also the following packages:
     - seaborn
     - sqlalchemy
     - statsmodels
-
